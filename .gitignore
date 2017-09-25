@@ -39,3 +39,4 @@ Deployed
 *.ncrunch*
 node_modules
 .vscode/
+.idea/
